@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# business documents — keep out of the shared repo
+PROPOSAL.md
